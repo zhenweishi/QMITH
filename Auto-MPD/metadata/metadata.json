@@ -1,0 +1,36 @@
+{
+  "ContentCreatorName": "MetaMedAI_Lung_test",
+  "ClinicalTrialSeriesID": "Session1",
+  "ClinicalTrialTimePointID": "1",
+  "SeriesDescription": "Segmentation",
+  "SeriesNumber": "300",
+  "InstanceNumber": "1",
+  "segmentAttributes": [
+    [
+      {
+        "labelID": 1,
+        "SegmentDescription": "Tumor",
+        "SegmentAlgorithmType": "MANUAL",
+        "AnatomicRegionSequence": {
+          "CodeValue": "39607008",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Lung"
+        },
+        "SegmentedPropertyCategoryCodeSequence": {
+          "CodeValue": "49755003",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Morphologically Altered Structure"
+        },
+        "SegmentedPropertyTypeCodeSequence": {
+          "CodeValue": "86049000",
+          "CodingSchemeDesignator": "SCT",
+          "CodeMeaning": "Neoplasm, Primary"
+        }
+      }
+    ]
+  ],
+  "ContentLabel": "SEGMENTATION",
+  "ContentDescription": "Image segmentation",
+  "ClinicalTrialCoordinatingCenterName": "dcmqi",
+  "BodyPartExamined": ""
+}
