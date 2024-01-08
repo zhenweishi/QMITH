@@ -24,9 +24,3 @@ The QMITH package is freely available to browse, download, and use for scientifi
 <sup>2</sup> Guangdong Provincial Key Laboratory of Artificial Intelligence in Medical Image Analysis and Application, China <br/>
 <sup>3</sup> School of Medicine, South China University of Technology, China <br/>
 <sup>4</sup> Department of Medical Imaging, Nanfang Hospital, Southern Medical University, China 
-
-### Contact
-We are happy to help you with any questions. Please contact Zhenwei Shi.
-Email: shizhenwei@gdph.org.cn
-
-We welcome contributions to QMITH.
